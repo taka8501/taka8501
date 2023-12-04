@@ -54,3 +54,10 @@ a {
 a:hover {
   transform: scale(1.1);
 }
+.box {
+  background-color: #cccccc;
+}
+
+p {
+  text-align: left;
+}
