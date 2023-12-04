@@ -1,0 +1,56 @@
+nav {
+  width: 100%;
+  height: 70px;
+  background-color: dimgray;
+  padding-top: 5px;
+  box-sizing: border-box;
+}
+ul {
+  display: flex;
+}
+li {
+  list-style: none;
+}
+a {
+  display: block;
+  text-decoration: none;
+  color: white;
+  margin-right: 35px;
+  background-color: black
+}
+body {
+  background-image: url("file:///home/chronos/u-89cd69bae98205eaa50ba41b8106f24c1b5c4d3e/MyFiles/Downloads/html%E3%82%B5%E3%82%A4%E3%83%88/%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89.jpeg");
+  background-size: cover;
+}
+h2 {
+ color:darkgreen  
+}
+h3 {
+ color:whitesmoke
+
+}
+h4{ 
+ display:c
+}
+h1 {
+  color:white
+}
+.txt_bg_blue_white{
+  background:black;
+  padding:0.35em;
+  border-radius:2px;
+  color:white
+}
+a {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  background: #333;
+  padding: 18px 30px;
+  border-radius: 6px;
+  display: inline-block;
+  transition: .3s;
+}
+a:hover {
+  transform: scale(1.1);
+}
